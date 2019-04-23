@@ -53,9 +53,14 @@ Dentro desse arquivo você vai colocar os arquivos que não serão enviados no p
 ## Planejamento - Bootstrap
 Planejamento da aula da Reprograma da T6 sobre Bootstrap
 
-### Aula 1
+### Aula 1 - 06/05
 Nesta primeira aula irei abordar brevemente os frameworks de css usados no mercado, a importância de aprender bootstrap e os prós e contras de usá-lo. 
 Slides: https://docs.google.com/presentation/d/10SqDClB9mymaVEBu9wBy9k4tdtoESua9VcK27NPgVug/edit?usp=sharing
 
 Explicarei data-toggle, data-target e vamos trabalhar os principais componentes do bootstrap.
 Para esse exercício vou usar o seguinte modelo: https://blackrockdigital.github.io/startbootstrap-modern-business/
+
+### Aula 2 - 07/05
+
+#### Exercício/projeto: Sessão da tarde
+https://github.com/reprograma/T7-javascript-I/blob/master/aula-2/exercicio.md
