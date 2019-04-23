@@ -1,7 +1,7 @@
 # T7-bootstrap-sass
 Turma 7 | Front-end | 2019 | Semana 9 | Bootstrap e Sass
 
-### O objetivo deste módulo é apresentar às alunas os frameworks css com foco em bootstrap e o uso de pré-processadores, neste módulo será usado o Sass.
+O objetivo deste módulo é apresentar às alunas os frameworks css com foco em bootstrap e o uso de pré-processadores, neste módulo será usado o Sass.
 
 ***
 
