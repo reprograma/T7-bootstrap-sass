@@ -7,7 +7,8 @@ O objetivo deste módulo é apresentar às alunas os frameworks css com foco em 
 
 * [Bootstrap](#bootstrap)
   * [Instalação](#instalação)
-  * [Aula 1](#aula-1)
+  * [Aula 1](#aula-1---0605)
+  * [Aula 2](#aula-2---0705)
 
 ***
 
