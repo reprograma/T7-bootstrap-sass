@@ -6,14 +6,14 @@ Turma 7 | Front-end | 2019 | Semana 9 | Bootstrap e Sass
 ***
 
 * [Bootstrap](#bootstrap)
-  * [Instalação](#instalacao)
+  * [Instalação](#instalação)
   * [Aula 1](#aula-1)
 
 ***
 
 ## Bootstrap 
 ## Documentação 
-[Versão PT/BR ;)](https://getbootstrap.com.br/)
+[Versão PT/BR](https://getbootstrap.com.br/)
 
 ### Instalação
 ### Instalação do Bootstrap via CDN
