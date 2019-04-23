@@ -63,4 +63,4 @@ Para esse exercício vou usar o seguinte modelo: https://blackrockdigital.github
 ### Aula 2 - 07/05
 
 #### Exercício/projeto: Sessão da tarde
-https://github.com/reprograma/T7-javascript-I/blob/master/aula-2/exercicio.md
+https://github.com/reprograma/T7-bootstrap-sass/blob/master/aula-2/exercicio.md

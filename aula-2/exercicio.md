@@ -8,4 +8,4 @@ Vamos criar um portfólio e subir no gh-pages
 
 * Vamos desenvolver nosso portfólio com base no template abaixo usando Bootstrap
 
-![portfolio](images/portfolio.jpg)
+![portfolio](images/portfolio.JPG)
