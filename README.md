@@ -9,6 +9,10 @@ O objetivo deste módulo é apresentar às alunas os frameworks css com foco em 
   * [Instalação](#instalação)
   * [Aula 1](#aula-1---0605)
   * [Aula 2](#aula-2---0705)
+* [Sass](#sass)
+  * [Instalação Sass](#instalação-sass)
+  * [Aula 3](#aula-3---0805)
+  * [Aula 4](#aula-4---0905)
 
 ***
 
@@ -52,7 +56,7 @@ Na raíz do projeto criar um arquivo com o nome .gitignore
 Dentro desse arquivo você vai colocar os arquivos que não serão enviados no push do git, por exemplo a pasta com as nossas bibliotecas: node_modules
 
 ## Planejamento - Bootstrap
-Planejamento da aula da Reprograma da T6 sobre Bootstrap
+Planejamento da aula da Reprograma da T7 sobre Bootstrap
 
 ### Aula 1 - 06/05
 Nesta primeira aula irei abordar brevemente os frameworks de css usados no mercado, a importância de aprender bootstrap e os prós e contras de usá-lo. 
@@ -65,3 +69,27 @@ Para esse exercício vou usar o seguinte modelo: https://blackrockdigital.github
 
 #### Exercício: Meu portfólio
 https://github.com/reprograma/T7-bootstrap-sass/blob/master/aula-2/exercicio.md
+
+## Sass 
+## Documentação 
+[Versão Inglês](https://sass-lang.com/documentation)
+
+### Instalação Sass
+- Verificar se tem o Nodejs instalado na máquina, caso contrário instalar. https://nodejs.org/en/
+- No terminal, na pasta do projeto executar: npm init e responder as perguntas
+- Instalar o sass: npm install -g sass
+
+## Planejamento - Sass
+Planejamento da aula da Reprograma da T7 sobre Sass
+
+### Aula 3 - 08/05
+Nesta aula iremos aprender a instalar e usar o sass.
+Slides: https://docs.google.com/presentation/d/1_2-ldWTwFVB5Wpur7M_JcFkBvWMM6QWrxEncbnhdMGM/edit?usp=sharing
+
+#### Exercício: Refatorando Reprograma Freela
+https://github.com/reprograma/T7-bootstrap-sass/blob/master/aula-3/exercicio.md
+
+### Aula 4 - 09/05
+
+#### Exercício: Criando um site institucional
+https://github.com/reprograma/T7-bootstrap-sass/blob/master/aula-4/exercicio.md
