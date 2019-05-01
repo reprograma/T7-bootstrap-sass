@@ -1,11 +1,11 @@
-### Refatorando Reprograma Freela
+### Criando site institucional
 
-Vamos refatorar o css de um projeto já existente
+Vamos criar um site institucional e subir no gh-pages
 
 ***
 
 #### O que deve ser feito?
 
-* Vamos refatorar o css do projeto Reprograma Freela, passando tudo para Sass. A idéia também é começar a lidar com código legado. Precisamos clonar o repositório abaixo:
+* Vamos desenvolver nosso site com base no template abaixo usando Sass, o html já está disponível, é possível trocar as classes e imagens. 
 
-https://github.com/reprograma/reprogramafreela
+![institucional](images/institucional.JPG)
