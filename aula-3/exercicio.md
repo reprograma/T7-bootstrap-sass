@@ -1,11 +1,11 @@
-### Meu Portfólio
+### Criando site institucional
 
-Vamos criar um portfólio e subir no gh-pages
+Vamos criar um site institucional e subir no gh-pages
 
 ***
 
 #### O que deve ser feito?
 
-* Vamos desenvolver nosso portfólio com base no template abaixo usando Bootstrap
+* Vamos desenvolver nosso site com base no template abaixo usando Sass, o html já está disponível, é possível trocar as classes e imagens. 
 
-![portfolio](images/portfolio.JPG)
+![institucional](images/institucional.JPG)
