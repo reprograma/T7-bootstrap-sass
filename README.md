@@ -76,8 +76,7 @@ https://github.com/reprograma/T7-bootstrap-sass/blob/master/aula-2/exercicio.md
 
 ### Instalação Sass
 - Verificar se tem o Nodejs instalado na máquina, caso contrário instalar. https://nodejs.org/en/
-- No terminal, na pasta do projeto executar: npm init e responder as perguntas
-- Instalar o sass: npm install -g sass
+- Instalar o sass, no terminal: npm install -g sass
 - Para compilar o arquivo, digite no terminal: sass caminho_e_nome_do_arquivo.scss caminho_e_nome_do_arquivo.css
 - Extensão do VS Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
