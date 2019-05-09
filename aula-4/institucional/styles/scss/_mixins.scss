@@ -1,0 +1,19 @@
+@mixin flex($align, $justify) {
+    display: flex;
+    align-items: $align;
+    justify-content: $justify;
+}
+
+@mixin button($pd-y, $pd-x, $bg, $text) {
+    padding: $pd-y $pd-x;
+    background: $bg;
+    text-transform: capitalize;
+    font-size: 18px;
+    color: $text;
+}
+
+@mixin title($transform, $color) {
+    font-size: $font-size-title;
+    text-transform: $transform;
+    color: $color;
+}
